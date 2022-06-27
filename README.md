@@ -146,6 +146,7 @@ A few examples:
     hostname: "server01.example.net"
     template: "debian10_64"
     soft_raid_devices: "2"
+    partition_scheme: default
 
 ```
 
