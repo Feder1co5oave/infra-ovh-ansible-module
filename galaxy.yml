@@ -1,7 +1,7 @@
 # The namespace of the collection. This can be a company/brand/organization or product namespace under which all
 # content lives. May only contain alphanumeric lowercase characters and underscores. Namespaces cannot start with
 # underscores or numbers and cannot contain consecutive underscores
-namespace: synthesio
+namespace: feder1co5oave
 
 # The name of the collection. Has the same character restrictions as 'namespace'
 name: ovh
@@ -16,6 +16,7 @@ readme: README.md
 # @nicks:irc/im.site#channel'
 authors:
   - Synthesio SRE team <sre@synthesio.com>
+  - Federico Soave <f.soave@onetag.com>
 
 # A short summary description of the collection
 description: An Ansible collection to talk with OVH API.
@@ -40,10 +41,10 @@ tags:
 dependencies: {}
 
 # The URL of the originating SCM repository
-repository: https://github.com/synthesio/infra-ovh-ansible-module
+repository: https://github.com/Feder1co5oave/infra-ovh-ansible-module
 
 # The URL to any online docs
-documentation: https://github.com/synthesio/infra-ovh-ansible-module
+documentation: https://github.com/Feder1co5oave/infra-ovh-ansible-module
 
 # The URL to the collection issue tracker
-issues: https://github.com/synthesio/infra-ovh-ansible-module/issues
+issues: https://github.com/Feder1co5oave/infra-ovh-ansible-module/issues
